@@ -1,1 +1,1 @@
-# Clustering_SSL
+The provided code implements a framework for clustering-based analysis of echograms using self-supervised learning (SSL) features and raw data. It includes preprocessing echogram data, extracting features, applying k-means clustering, selecting sandeel-related clusters, and evaluating their performance through metrics like the F1 score. The framework handles class imbalance through over-clustering and iterative cluster selection, offering a comparative analysis with supervised U-Net predictions.
