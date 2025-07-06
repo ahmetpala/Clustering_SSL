@@ -1,4 +1,4 @@
-# Clustering-Based Analysis Framework for Echograms
+# Clustering-based analysis framework for underwater acoustic data
 
 This repository contains code implementing a clustering-based framework for analyzing echograms, designed to identify sandeel regions using both **self-supervised learning (SSL)** features and raw data. Below is an overview of the key steps and functionality:
 
@@ -27,7 +27,7 @@ This repository contains code implementing a clustering-based framework for anal
 6. **Visualization**:
    - Provides visualization tools for comparing raw data, SSL-based clusters, U-Net predictions, and ground-truth labels.
 
-## Key Advantages
+## Advantages
 - Handles **class imbalance** through over-clustering and iterative cluster selection without altering the original data distribution.
 - Offers flexibility by supporting multiple clustering methods, such as **k-means**, **DBSCAN**, and **GMM**.
 - Enables detailed comparative analysis with supervised models like U-Net, demonstrating the potential of clustering-based approaches for fisheries acoustics.
