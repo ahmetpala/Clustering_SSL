@@ -1,5 +1,15 @@
 # Clustering-based analysis framework for underwater acoustic data
 
+![Python](https://img.shields.io/badge/python-3.13%2B-blue)
+![NumPy](https://img.shields.io/badge/NumPy-2.3.5-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.7-orange)
+![Pandas](https://img.shields.io/badge/Pandas-2.3.3-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7.2-orange)
+![SciPy](https://img.shields.io/badge/SciPy-1.16.3-orange)
+![TQDM](https://img.shields.io/badge/TQDM-4.67.1-orange)
+![Xarray](https://img.shields.io/badge/Xarray-2025.11.0-orange)
+![Zarr](https://img.shields.io/badge/Zarr-3.1.5-orange)
+
 This repository contains code implementing a clustering-based framework for analyzing echograms, designed to identify sandeel regions using both **self-supervised learning (SSL)** features and raw data. Below is an overview of the key steps and functionality:
 
 ## Features and Functionality
