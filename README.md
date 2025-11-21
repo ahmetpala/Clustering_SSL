@@ -9,7 +9,6 @@
 ![TQDM](https://img.shields.io/badge/TQDM-4.67.1-orange)
 ![Xarray](https://img.shields.io/badge/Xarray-2025.11.0-orange)
 ![Zarr](https://img.shields.io/badge/Zarr-3.1.5-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 This repository contains code implementing a clustering-based framework for analyzing echograms, designed to identify sandeel regions using both **self-supervised learning (SSL)** features and raw data. Below is an overview of the key steps and functionality:
 
