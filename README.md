@@ -12,13 +12,13 @@
 
 This repository contains code implementing a clustering-based framework for analyzing echograms, designed to identify sandeel regions using both **self-supervised learning (SSL)** features and raw data. Below is an overview of the key steps and functionality:
 
-## Features and Functionality
+## Features and functionality
 
-1. **Data Preprocessing**:
+1. **Data preprocessing**:
    - Loads echogram data, labels, and bottom detection information from pre-defined directories.
    - Extracts multi-frequency data and applies transformations for standardization and filtering.
 
-2. **Patch-Based Feature Extraction**:
+2. **Patch-based feature extraction**:
    - Divides echograms into patches (e.g., 8x8 pixels) for feature representation.
    - Extracts SSL-based features for each patch using the `Extraction_for_Clustering` module.
 
