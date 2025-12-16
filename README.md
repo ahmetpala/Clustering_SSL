@@ -26,7 +26,7 @@ This repository contains code implementing a clustering-based framework for anal
    - Applies k-means clustering to the extracted features and raw data to identify clusters.
    - Generates cluster maps and channels for further analysis.
 
-4. **Cluster Selection**:
+4. **Cluster selection**:
    - Implements an iterative cluster selection process to optimize metrics like the F1 score for identifying sandeel regions.
    - Evaluates individual clusters and their combinations for maximizing classification performance.
 
