@@ -43,7 +43,7 @@ This repository contains code implementing a clustering-based framework for anal
 - Enables detailed comparative analysis with supervised models like U-Net, demonstrating the potential of clustering-based approaches for fisheries acoustics.
 
 ## Applications
-This framework is applicable to a range of fields, including:
+This framework can be applied to a range of fields, including:
 - **Fisheries Acoustics**: Identifying sandeel and other marine species.
 
 For additional details and replication, refer to the corresponding author.
